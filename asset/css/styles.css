@@ -1,0 +1,28 @@
+body {
+    font-family: 'Georgia', Times, serif;
+    min-height: auto;
+    background-color: grey;
+  }
+
+
+  .estilo_defecto {
+    border: black solid;
+    text-align: center;
+    margin: 1%;
+    background-color: beige;
+  }
+  
+  article {
+    border: black solid;
+    text-align: center;
+    margin: 0% 10%;
+
+  }
+  
+ 
+  
+  header {
+    background-image: url("../img/skiheader.jpg");
+    color: red;
+ 
+  }
