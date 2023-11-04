@@ -1,0 +1,67 @@
+nav.bg-pg{
+    background-color: rgb(49, 48, 48);
+    font-family: sans-serif;
+
+}
+
+nav.bg-pg a.bs{
+    margin-left: 30px;
+    color: white;
+}
+
+nav.bg-pg ul li a{
+    color: rgb(100, 96, 96);
+}
+
+nav.bg-pg ul li.orador a{
+    color: white;
+}
+
+nav.bg-pg ul li.all a{
+   margin-left: 400px;
+}
+
+nav.bg-pg ul li.ticket a{
+    display: block;
+    color: green;
+}
+
+nav.bg-ft{
+    background-color: rgb(13, 104, 138);
+    font-family: sans-serif;
+
+}
+
+nav.bg-ft a.bs{
+    margin-left: 30px;
+    color: white;
+}
+
+nav.bg-ft ul li a{
+    color: white;
+}
+
+nav.bg-ft a.all{
+    margin-left: 100px;
+ }
+
+ nav.bg-ft ul li.tc a{
+  vertical-align: text-top; 
+  font-stretch:narrower;
+
+ }
+
+ nav.bg-ft ul li.mg a{
+
+    margin-left: 30px ;
+    margin-right:  10px;
+ }
+
+ button.bt-cl{
+    width: 300px;
+  
+ }
+
+div input.ct{
+    background-color: rgb(157, 181, 227)
+}
